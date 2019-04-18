@@ -10,19 +10,11 @@ Bot ustawia kanał gdzie będa wysyłane powiadomienia gdzy osoba wejdzie i wyjd
 <strong>Ustaw wiadomość powitalną</strong>
 
 Gdy nowa osoba dołączy na serwer to bot z wybrannym przez nas tekstem napisze do niej w wiadomości prywatnej 
-<strong>np.Witamy na serwerze. Życzymy Miłej Zabawy!<strong>
+np.Witamy na serwerze. Życzymy Miłej Zabawy!
 
-<strong>Muzyczne</strong>
+<strong>Slowmode</strong>
 
-s!graj [URL/ Tytuł] - zaczyna grać muzyke
-
-s!wyjdz - przestaje grać i wychodzi z kanału głosowego
-
-s!glosnosc [1-100] - zmienia głośność
-
-s!pomin [liczba do pominięcia] - pomija podaną przez nas ilość piosenek z kolejki
-
-s!kolejka - wyświetla się nam nasza kolejka
+Kiedy wpiszemy slowmode i czas to będziemy mogli pisać co kilka sekund przez dopóki nie skończy sie nasz ustalony czas
 
 
 <strong>Administracyjne</strong>
