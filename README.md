@@ -1,1 +1,1 @@
-# Mini-Paczka-komend
+# Mini-Paczka
