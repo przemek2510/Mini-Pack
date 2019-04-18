@@ -2,32 +2,39 @@
 	
 <h3>Komendy:</h3>	
 
-<strong>Ustaw kanał powitalny</strong>.
+<strong>1) Ustaw kanał powitalny</strong>
 
 Bot ustawia kanał gdzie będa wysyłane powiadomienia gdzy osoba wejdzie i wyjdzie z serwera
 
 
-<strong>Ustaw wiadomość powitalną</strong>
+<strong>2) Ustaw wiadomość powitalną</strong>
 
 Gdy nowa osoba dołączy na serwer to bot z wybrannym przez nas tekstem napisze do niej w wiadomości prywatnej 
 np.Witamy na serwerze. Życzymy Miłej Zabawy!
 
-<strong>Slowmode</strong>
+<strong>3) Slowmode</strong>
 
 Kiedy wpiszemy slowmode i czas to będziemy mogli pisać co kilka sekund przez dopóki nie skończy sie nasz ustalony czas
 
 
-<strong>Administracyjne</strong>
+<strong>4) Fortnite sklep</strong>
 
-s!prefix [nowy prefix] - bot zmienia swój prefix na nowy serwerowy prefix
+Wysyła cały sklep Fortnite (po napisaniu komendy trzeba zaczekać 5,10 sekund aby bot wysłał cały sklep)
 
 
-<strong>Inne</strong>
+<strong>5) Fortnite status</strong>
 
-s!błąd [treść błędu] - dzięki tej komendzie możesz poinformować Deweloperów bota o błędach
+Bot wysyła w embedzie informacje czy serwery Fortnite działają
 
-s!info - wyświetla podstawowe informacje o bocie
 
-prefixbota - wysyła informacje o aktualnym prefixie
+<strong>6) Fortnite lokacje</strong>
 
-s!donate - wysyła informacje o donate bota
+Bot wysyła losowa lokacje z Fortnite po Polsku przydaje sie np. do  róznych challenge z losową lokacją
+
+<h3>Eventy:</h3>	
+
+<strong>● Member join</strong>
+
+<strong>● Member leave</strong>
+
+<strong>● Powitalna wiadomość</strong>
