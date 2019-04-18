@@ -1,10 +1,10 @@
 # Mini-Paczka
-<h1>Sigma BOT</h1>	
+	
 <h3>Komendy:</h3>	
 
-<strong>Prefix</strong>.
+<strong>Ustaw kanał powitalny</strong>.
 
-Prefix bota: s!
+Bot ustawia kanał gdzie będa wysyłane powiadomienia gdzy osoba wejdzie i wyjdzie z serwera
 
 
 <strong>Informacje</strong>
