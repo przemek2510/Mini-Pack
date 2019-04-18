@@ -10,7 +10,7 @@ Bot ustawia kanał gdzie będa wysyłane powiadomienia gdzy osoba wejdzie i wyjd
 <strong>Ustaw wiadomość powitalną</strong>
 
 Gdy nowa osoba dołączy na serwer to bot z wybrannym przez nas tekstem napisze do niej w wiadomości prywatnej 
-np.Witamy na serwerze. Życzymy Miłej Zabawy!
+<strong>np.Witamy na serwerze. Życzymy Miłej Zabawy!<strong>
 
 <strong>Muzyczne</strong>
 
